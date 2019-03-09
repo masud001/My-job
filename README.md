@@ -398,19 +398,24 @@ Name | Website | Region
 [YouCanBook.me Ltd](/company-profiles/youcanbook-me.md) ⚠️️ | https://youcanbook.me |
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
+[authenticjobs](https://authenticjobs.com) | https://authenticjobs.com/#category=4&onlyremote=1 | Worldwide
 
-https://authenticjobs.com/#category=4&onlyremote=1
-http://www.workingnomads.co/jobs
-https://remoteok.io/remote-jobs
-https://www.wfh.io/search?utf8=%E2%9C%93&query=front&commit=Go%21
-https://stackoverflow.com/jobs?sort=i&q=front&r=true
-https://weworkremotely.com/jobs/search?term=front
-http://jobs.smashingmagazine.com/
-http://frontenddeveloperjob.com/
-http://codepen.io/jobs
-https://news.ycombinator.com/item?id=12405698
-https://hn.algolia.com/?query=who%20is%20hiring&sort=byPopularity&prefix&page=0&dateRange=all&type=story
-http://jobs.remotive.io/
-https://github.com/jessicard/remote-jobs
-https://jobspresso.co/browsejobs/#s=1
-https://remotetechwork.com/#s=1
+
+[authenticjobs](https://authenticjobs.com) | https://authenticjobs.com/#category=4&onlyremote=1 | Worldwide
+[workingnomads](http://www.workingnomads.co) | http://www.workingnomads.co/jobs | Worldwide
+[remoteok](remoteok.io) | remoteok.io | Worldwide
+[wfh](https://www.wfh.io) | https://www.wfh.io/search?utf8=%E2%9C%93&query=front&commit=Go%21 | Worldwide
+[stackoverflow](https://stackoverflow.com/jobs) | https://stackoverflow.com/jobs?sort=i&q=front&r=true | Worldwide
+[weworkremotely](https://weworkremotely.com) | https://weworkremotely.com/jobs/search?term=front | Worldwide
+[smashingmagazine](http://jobs.smashingmagazine.com/) | http://jobs.smashingmagazine.com/ | Worldwide
+[frontenddeveloperjob](http://frontenddeveloperjob.com/) | http://frontenddeveloperjob.com/ | Worldwide
+[codepen](http://codepen.io/jobs) | http://codepen.io/jobs | Worldwide
+[ycombinator](https://news.ycombinator.com/) | https://news.ycombinator.com/item?id=12405698 | Worldwide
+[algolia](https://hn.algolia.com/) | https://hn.algolia.com/?query=who%20is%20hiring&sort=byPopularity&prefix&page=0&dateRange=all&type=story | Worldwide
+[jobs.remotive](http://jobs.remotive.io/) | http://jobs.remotive.io/ | Worldwide
+[github.com](https://github.com/jessicard/remote-jobs) | https://github.com/jessicard/remote-jobs | Worldwide
+[jobspresso](https://jobspresso.co) | https://jobspresso.co/browsejobs/#s=1 | Worldwide
+[remotetechwork](https://remotetechwork.com/) | https://remotetechwork.com/#s=1 | Worldwide
+
+
+
