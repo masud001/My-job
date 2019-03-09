@@ -1,10 +1,5 @@
 # Remote-friendly companies
 
-A list of semi to fully remote-friendly companies in or around tech.
-
-Contributions are very welcome! Please
-[submit a pull request on GitHub](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md).
-
 _Some company names have a ⚠️️️ icon next to them. This icon means we don't have
 much information about this company yet and we would love a contribution! See
 each individual company profile for details._
@@ -414,6 +409,6 @@ Name | Website | Region
 [github.com](https://github.com/jessicard/remote-jobs) | https://github.com/jessicard/remote-jobs | Worldwide
 [jobspresso](https://jobspresso.co) | https://jobspresso.co/browsejobs/#s=1 | Worldwide
 [remotetechwork](https://remotetechwork.com/) | https://remotetechwork.com/#s=1 | Worldwide
-
+[angel](https://angel.co/jobs/) | https://angel.co/jobs | Worldwide
 
 
