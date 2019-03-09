@@ -399,8 +399,6 @@ Name | Website | Region
 [Zapier](/company-profiles/zapier.md) | https://zapier.com/ | Worldwide
 [Zeit.io](/company-profiles/zeit-io.md) | http://zeit.io/ | Germany, The Netherlands, Spain, Chile
 [authenticjobs](https://authenticjobs.com) | https://authenticjobs.com/#category=4&onlyremote=1 | Worldwide
-
-
 [authenticjobs](https://authenticjobs.com) | https://authenticjobs.com/#category=4&onlyremote=1 | Worldwide
 [workingnomads](http://www.workingnomads.co) | http://www.workingnomads.co/jobs | Worldwide
 [remoteok](remoteok.io) | remoteok.io | Worldwide
