@@ -1,4 +1,4 @@
-# Remote-friendly companies
+﻿# Remote-friendly companies
 
 _Some company names have a ⚠️️️ icon next to them. This icon means we don't have
 much information about this company yet and we would love a contribution! See
@@ -410,5 +410,6 @@ Name | Website | Region
 [jobspresso](https://jobspresso.co) | https://jobspresso.co/browsejobs/#s=1 | Worldwide
 [remotetechwork](https://remotetechwork.com/) | https://remotetechwork.com/#s=1 | Worldwide
 [angel](https://angel.co/jobs/) | https://angel.co/jobs | Worldwide
+[eurotechjobs](https://www.eurotechjobs.com/) | https://www.eurotechjobs.com/ | Worldwide
 
 
